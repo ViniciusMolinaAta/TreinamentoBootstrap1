@@ -1,0 +1,52 @@
+
+.navbar {
+    background-color: #b8dd4f;
+}
+
+
+.quem-somos {
+    background-color: #b3aeff;
+}
+
+.parceiros {
+    background-color: #8077fc;
+}
+
+.servicos {
+    background-color: #b3aeff;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ImgQuemSomos {
+    border-radius: 15px;
+    width: 40%;
+    height: 40%;
+}
+
+.ImgParceiros {
+    border-radius: 15px;
+    width: 70%;
+    height: 70%;
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
+
+.Imgservicos {
+    border-radius: 15px;
+    width: 100%;
+    height: 100%;
+}
+
+.titulo {
+    padding-bottom: 20px;
+}
+
+.bg-footer {
+    background-color: rgb(36, 29, 29);
+    margin-top: 5px;
+  
+}
